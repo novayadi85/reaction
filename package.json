@@ -59,6 +59,7 @@
     "@reactioncommerce/api-plugin-taxes": "~1.1.0",
     "@reactioncommerce/api-plugin-translations": "~1.1.1",
     "@reactioncommerce/api-utils": "~1.14.4",
+    "@reactioncommerce/custom-plugin-sub-tag": "github:jemikanegara/custom-plugin-sub-tag",
     "@reactioncommerce/db-version-check": "~1.0.0",
     "@reactioncommerce/file-collections-sa-gridfs": "~0.1.2",
     "@reactioncommerce/file-collections": "~0.7.3",
