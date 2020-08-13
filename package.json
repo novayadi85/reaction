@@ -59,6 +59,7 @@
     "@reactioncommerce/api-plugin-taxes": "~1.1.0",
     "@reactioncommerce/api-plugin-translations": "~1.1.1",
     "@reactioncommerce/api-utils": "~1.14.4",
+    "@reactioncommerce/custom-plugin-event": "github:jemikanegara/custom-plugin-event",
     "@reactioncommerce/custom-plugin-qty": "github:jemikanegara/custom-plugin-qty",
     "@reactioncommerce/custom-plugin-sub-tag": "github:jemikanegara/custom-plugin-sub-tag",
     "@reactioncommerce/db-version-check": "~1.0.0",

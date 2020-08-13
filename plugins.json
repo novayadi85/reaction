@@ -36,6 +36,7 @@
   "sitemapGenerator": "@reactioncommerce/api-plugin-sitemap-generator",
   "notifications": "@reactioncommerce/api-plugin-notifications",
   "addressValidationTest": "@reactioncommerce/api-plugin-address-validation-test",
-  "subTag": "@reactioncommerce/custom-plugin-sub-tag",
-  "qty": "@reactioncommerce/custom-plugin-qty"
+  "event": "@reactioncommerce/custom-plugin-event",
+  "qty": "@reactioncommerce/custom-plugin-qty",
+  "subTag": "@reactioncommerce/custom-plugin-sub-tag"
 }
