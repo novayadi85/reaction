@@ -64,14 +64,14 @@ npm run test:integration:file:watch -- <filename> # OR test one file
 Build:
 
 ```sh
-docker build . -t test-api
+docker build . -t lawkin/reaction
 ```
 
 Run:
 
 ```sh
 dc up -d mongo
-docker run --env-file ./.env -p 3000:3000 --network reaction.localhost -it test-api:latest
+docker run --env-file ./.env -p 3000:3000 --network reaction.localhost -it lawkin/reaction:latest
 ```
 
 Use an external GraphQL client to test http://localhost:3000/graphql. GraphQL Playground isn't served on GET requests because it's in production mode.
